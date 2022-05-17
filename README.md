@@ -2,6 +2,11 @@
 
 Creating web pages using [Scittle](https://github.com/babashka/scittle)
 
+## What is it?
+
+This project is a (work-in-progress) attempt to extract the Scittle-related functionality out of [Clay](https://github.com/scicloj/clay).
+
+Potentially, it can become a tiny library for the creation of static web pages.
 
 ## License
 
